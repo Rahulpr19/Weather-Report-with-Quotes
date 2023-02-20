@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+    color: #fff;
+    font-family: 'Merriweather', serif;
+}
+
+.navbar{
+    margin: 0;
+    padding: 0;
+    height: 60px;
+    background: blue;
+}
+
+.logo{
+    margin: 0;
+    padding: 0;
+    width: 60px;
+}
+
+.btns{
+    width: 120px;
+    background: black;
+    color: #fff;
+    outline: none;
+    border-radius: 10px;
+    text-align: center;
+
+}
+
+.card-header{
+    background: blue;
+    border: none;
+}
+
+.text-muted{
+    color: #e5e4e4 !important;
+}
+
+.card{
+    border: 2px solid rgb(26, 25, 25);
+    border-radius: 20px;
+    background: transparent;
+}
+
